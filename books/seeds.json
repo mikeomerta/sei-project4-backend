@@ -1,0 +1,92 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "title": "Stolen: How To Save The World From Financialisation",
+      "author": "Grace Blakeley",
+      "image": "https://i.imgur.com/u6D0MMy.jpg"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "title": "Invisible Women: Exposing Data Bias In A World Designed For Men",
+      "author": "Caroline Criado Perez",
+      "image": "https://i.imgur.com/jlwECS2.jpg"
+    }
+  },
+{
+  "model": "books.book",
+  "pk": 3,
+  "fields": {
+    "title": "The Outsider: A History of the Goalkeeper",
+    "author": "Johnathan Wilson",
+    "image": "https://i.imgur.com/WH3SrTM.jpg"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 4,
+  "fields": {
+    "title": "The Pity Of It All: A Portrait of Jews in Germany 1743 -1933",
+    "author": "Amos Elon",
+    "image": "https://i.imgur.com/Yjl38md.jpg"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 5,
+  "fields": {
+    "title": "Champagne Football: John Delaney and the Betrayal of Irish Football",
+    "author": "Mark Tighe & Paul Rowan",
+    "image": "https://i.imgur.com/hM3YL94.jpg"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 6,
+  "fields": {
+    "title": "The Patriarch: The Remarkable Life and Turbulent Times of Joseph P. Kennedy",
+    "author": "David Nasaw",
+    "image": "https://i.imgur.com/Jbjqriw.jpg"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 7,
+  "fields": {
+    "title": "One Child: The Story of China's Most Radical Export",
+    "author": "Mei Fong",
+    "image": "https://i.imgur.com/7aolyVj.jpg"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 8,
+  "fields": {
+    "title": "Concretopia: A Journey around the Rebuilding of Postwar Britain",
+    "author": "John Grindrod",
+    "image": "https://i.imgur.com/D6m5z5C.jpg"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 9,
+  "fields": {
+    "title": "Wings of Change: How the World's Biggest Energy Drink Manufacturer Made a Mark in Football",
+    "author": "Karan Tejwani",
+    "image": "https://i.imgur.com/QiVmgEQ.jpg"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 10,
+  "fields": {
+    "title": "Jews Don't Count",
+    "author": "David Baddiel",
+    "image": "https://i.imgur.com/DYIo8Zt.jpg"
+  }
+}
+]

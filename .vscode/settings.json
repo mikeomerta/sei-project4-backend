@@ -1,0 +1,17 @@
+{
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true,
+
+
+    "workbench.colorCustomizations": {
+      "statusBar.background": "#ee9026",
+      "titleBar.activeBackground": "#ee9026",
+      "titleBar.inactiveBackground": "#ee9026",
+    },
+    "window.title": "TSUNDOKU BACKEND - TSUNDOKU BACKEND - TSUNDOKU BACKEND - TSUNDOKU BACKEND"
+  
+}
+
+
+
+
