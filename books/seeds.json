@@ -88,5 +88,86 @@
     "author": "David Baddiel",
     "image": "https://i.imgur.com/DYIo8Zt.jpg"
   }
+},
+{
+  "model": "books.book",
+  "pk": 11,
+  "fields": {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "image": "https://i.imgur.com/MoYdDGu.jpg"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 12,
+  "fields": {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "image": "https://i.imgur.com/Qge93qN.jpg"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 13,
+  "fields": {
+    "title": "The North",
+    "author": "Paul Morley",
+    "image": "https://i.imgur.com/iwRdAJ6.jpg"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 14,
+  "fields": {
+    "title": "The Moonstone",
+    "author": "Wilkie Collins",
+    "image": "https://i.imgur.com/Q3tFepJ.jpg"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 15,
+  "fields": {
+    "title": "For Whom The Bell Tolls",
+    "author": "Ernest Hemingway",
+    "image": "https://i.imgur.com/fzmxBjS.jpg"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 16,
+  "fields": {
+    "title": "High-Rise",
+    "author": "J G Ballard",
+    "image": "https://i.imgur.com/srOlYjb.jpg"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 17,
+  "fields": {
+    "title": "The Bedwetter",
+    "author": "Sarah Silverman",
+    "image": "https://i.imgur.com/vzMhABw.jpg"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 18,
+  "fields": {
+    "title": "The First Muslim: The Story Of Muhammad",
+    "author": "Lesley Hazleton",
+    "image": "https://i.imgur.com/5XUFUmy.jpg"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 19,
+  "fields": {
+    "title": "American Pastor",
+    "author": "Philip Roth",
+    "image": "https://i.imgur.com/Nf8WUIO.jpg"
+  }
 }
 ]
