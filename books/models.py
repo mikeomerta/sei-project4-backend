@@ -2,8 +2,9 @@ from django.db import models
 
 class Book(models.Model):
     title = models.CharField(max_length=200, unique=True)
-    author = models.CharField(max_length=50, unique=True)
-    image = models.CharField(max_length=300, unique=True)
+    author = models.CharField(max_length=50)
+    image = models.CharField(max_length=200)
+    blurb = models.TextField(max_length=1500)
 
     def __str__(self):
         return f'{self.title} - {self.author}'
